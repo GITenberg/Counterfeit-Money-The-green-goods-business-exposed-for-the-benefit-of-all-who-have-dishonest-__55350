@@ -1,5 +1,8 @@
 _repo: Counterfeit-Money-The-green-goods-business-exposed-for-the-benefit-of-all-who-have-dishonest-__55350
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55350-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55350#Counterfeit-Money-The-green-goods-business-exposed-for-the-benefit-of-all-who-have-dishonest-_
 gutenberg_issued: '2017-08-12'
 gutenberg_type: Text
 identifiers:
